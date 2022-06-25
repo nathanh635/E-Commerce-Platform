@@ -24,7 +24,7 @@
 
   ## Usage
 
-  After running npm install, run npm start from the command line  to start the application.
+  After running npm install, seed the database, and run npm start from the command line to start the application.
 
   ## License
 
@@ -49,11 +49,11 @@
 
   Below is a screenshot of the tested application.
 
-![deployed page](./assets/screenshot.PNG)
+![tested application](./assets/screenshot.PNG)
   
 ## Links
 
   Repository: https://github.com/nathanh635/E-Commerce-Platform
   
-  Link to walkthrough video: https://drive.google.com/drive/folders/1JgyT0ULC8ouPEMYY_-QppBtg9-6-sxui?usp=sharing
+  Link to walkthrough video: https://drive.google.com/drive/folders/1nk3entOZdoe4Qu_8VuQ9gQtfs_ocE7Qq?usp=sharing
 
